@@ -10,7 +10,8 @@ But i forget what 'zone' it is and how i should be spending time right now. So i
 Ideally, this would be on my smart watch or phone where i can just glance at my wrist and know what i should be doing.
 
 ### A bit about the zones..
-The division of time was very methodical. I calculate the amount of time i have every day after taking away the time i'm asleep. Since 8 hours of sleep is reocmmended for a young adult like me, i'm left with 16hrs of time every day. Now, there are six ways i could be spending time, which are as follows:
+
+The division of time was very methodical. I calculate the amount of time i have every day after taking away the time i'm asleep. Since 8 hours of sleep is reocmmended for a young adult like me, i'm left with 16 hours of time every day. Now, there are six ways i could be spending time, which are as follows:
 
 - **E**ntertainment (2.5 hrs)
 - **F**riends and Family (6 hrs)
@@ -21,19 +22,21 @@ The division of time was very methodical. I calculate the amount of time i have 
 
 You can clearly see that my first priority is my family, second is my work, and third is entertainment.
 
-The allocation of time to each zone was also planned. Time gets allocated based on how the day goes. Since i have more time and less interruptions in the morning, Work get allocated two hours in the morning. But only after i have had Solitude and Personal. Family time gets hours in the morning around the time when you leave for school/college, so i have time to make and serve breakfast. Then it gets time in the evenings, when everyone is going to be home. Same goes for the rest of the zones, they are based on my schedule.
+The allocation of time to each zone was also planned. Time gets allocated based on how the day goes. Since i have more time and less interruptions in the morning, _Work_ get allocated two hours in the morning. But only after i have had _Solitude_ and _Personal_. _Family_ time gets hours in the morning around the time when you leave for school/college, so i have time to make and serve breakfast. Then it gets time in the evenings, when everyone is going to be home. Same goes for the rest of the zones, they are based on my schedule.
 
 The time **slot** is of 30 minutes. If a zone spans two hours, it basically took 4 time slots.
 
 ### E - Entertainment
 > All work and no play makes Jack a dull boy
-So don't be a dull girl. Catch up on favorite TV shows, watch a new movie, do something fun. Entertain yourself. The first entertainment zone comes right after the first Work zone..
+
+So don't be a dull girl. Catch up on favorite TV shows, watch a new movie, do something fun. Entertain yourself. The first _Entertainment_ zone comes right after the first _Work_ zone..
 
 ### F - Friends and Family
 Spend time with friends and family, interact with them, sozialize. Call an old friend, spend some quality time with mom, Whatsapp a freind, check Facebook etc. Basically, spend time with _people_, and the most important of all people are your friends and family.
 
 ### L - Learn
 _Learning and Long time investment_
+
 L goes for both learning and long time investment. By long time investment, i mean anything that'll help me in the long run. This could be spending time researching stock options or doing general research. Learning is basically a form of investment. The best investment you can make is in developing _you_.
 
 > An investment in knowledge pays the best interest. 
@@ -44,10 +47,11 @@ Personal grooming and me time. Take a shower, try new makeup, get a manicure, sp
 
 ### S - Solitude
 _Alone, silent time_
+
 Spending time alone is very important. Many successful people do it. It is proven to increase productivity and happiness. The more time you spend alone, the more comfortable you become in your own skin. Spending time alone helps you be happy without seeking validation from others. It also helps you think, and meditate, and plan. Besides, i enjoy my company, so solitude makes me peaceful. The allocation of time to Solitude is right after waking up and just before bed.
 
 ### W - Work
-Self explanatory. The total time alloted to Work in a day is 4 hours. This was in part inspired by _The 4 Hour Work Week_ by Time Ferris. The other reason was to do concentrated quality work in less time. I could have given Work more time since it is important, but i don't believe that more tie would actually mean more work. 4 hours has the benefit of looking like less time and having the psychological effect of thinking that you don't have to do a lot of work.
+Self explanatory. The total time alloted to Work in a day is 4 hours. This was in part inspired by _The 4 Hour Work Week_ by Time Ferris. The other reason was to do concentrated quality work in less time. I could have given Work more time since it is important, but i don't believe that more time would actually mean more work. 4 hours has the benefit of looking like less time and having the psychological effect of thinking that you don't have to do a lot of work.
 
 
 
