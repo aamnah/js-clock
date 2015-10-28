@@ -17,7 +17,7 @@ Changelog
 - refined SCSS
 
 ### v0.5
-- added variable keys for all the if statements to check zones
+- added variable keys for all the if statements to check zones, purpose is to make the code tidier
 
 
 Future
@@ -26,3 +26,9 @@ Future
 - add a to-do list (which changes based on the current zone, _obviously_)
 - add suggestions for what to do when the zone is upon me
 - show tasks/events/calendar entries with the relevnat tags. e.g. when in personal zone, click to show a list of relevant items that can be done during personal time.
+
+
+Sources
+---
+- http://www.plus2net.com/javascript_tutorial/clock.php
+- http://jsfiddle.net/cse_tushar/fKKSb/311/
