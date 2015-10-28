@@ -1,5 +1,6 @@
 Zone Clock
 ---
+A clock that changes color to indicate what i should be doing. Based on color-coded pre-determined time zones.
 
 I have this system where i have divided my time based on how much time i have and how i should be spending it.
 
@@ -16,9 +17,20 @@ The division of time was very methodical. I calculate the amount of time i have 
 - **E**ntertainment (2.5 hrs)
 - **F**riends and Family (6 hrs)
 - **L**earning & Long time investment (1.5 hrs)
-- **P**ersonal grooming and me time (2 hrs)
+- **P**ersonal (2 hrs)
 - **S**olitude (1 hr)
 - **W**ork (4 hrs)
+
+The time allocation and color codes are as follows:
+
+| Zone                       | Alloted Time | Color  |
+|---------------------------------|---------|--------|
+| Entertainment                   | 2.5 hrs | Pink   |
+| Friends and Family              | 6 hrs   | Purple |
+| Learning & Long time investment | 1.5 hrs | Red    |
+| Personal                        | 2 hrs   | Blue   |
+| Solitude                        | 1 hr    | Yellow |
+| Work                            | 4 hrs   | Green  |
 
 You can clearly see that my first priority is my family, second is my work, and third is entertainment.
 
