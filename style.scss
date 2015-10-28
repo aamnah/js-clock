@@ -1,0 +1,70 @@
+body {
+  margin: 0 auto;
+  padding: 5% 20%;
+  text-shadow: 2px 2px 1 rgba(0, 0, 0, 1); // text-shadow: h-shadow v-shadow blur-radius color|none|initial|inherit;
+  a {
+    color: #000;
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+#time {
+  font-size: 3em;
+  font-weight: bold;
+  text-align: center;
+}
+#zone {
+  text-transform: uppercase;
+  text-align: center;
+}
+#quote {
+    text-align: center;
+    padding: 15px;
+}
+
+//// Variables
+// Colors
+$E: #f092b0; 
+$F: #7d669e;
+$L: #CF000F;
+$P: #39add1;
+$S: #b7c0c7;
+$W: #51b46d;
+$Sleep: #22313F;
+
+$E_font: rgba(44, 62, 80, 0.7); // Alpha channel sets opcaity, between 0-1, 1 = opaque, 0 = fully transparent
+$F_font: rgba(255, 255, 255,0.7);
+$L_font: rgba(255, 255, 255,0.7);
+$P_font: rgba(255, 255, 255,0.7);
+$S_font: rgba(255, 255, 255, 1);
+$W_font: rgba(255, 255, 255,0.7);
+$Sleep_font: rgba(255, 255, 255,0.7);
+
+.entertainment {
+  background-color: $E;
+  color: $E_font; 
+}
+.family {
+  background-color: $F;
+}
+.learn {
+  background-color: $L;
+  color: $L_font; 
+}
+.personal {
+  background-color: $P;
+}
+.sleep {
+  background-color: $Sleep;
+  color: $Sleep_font; 
+}
+.solitude {
+  background-color: $S;
+  color: $S_font; 
+}
+.work {
+  background-color: $W;
+}

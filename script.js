@@ -19,6 +19,8 @@
         if((time >= 1000 && time < 1030) || (time >= 1200 && time < 1300) || (time >= 1800 && time < 1900)) {
             document.body.className = "entertainment";
             document.getElementById('zone').innerHTML = "Entertainment";
+            document.getElementById('quote').innerHTML = 
+            "Let's have fun some yo! <br / > Here are your <a href=\"http://followshows.com/\">TV shows</a>"; 
         } 
         // Family
         if(zones.family) {
@@ -29,6 +31,7 @@
         if((time >= 1300 && time < 1400) || (time >= 2130 && time < 2200)) {
             document.body.className = "learn";
             document.getElementById('zone').innerHTML = "Learning & Long time investment" ;
+            document.getElementById('quote').innerHTML = "An investment in <strong>knowledge</strong> pays the best interest. <em>Benjamin Franklin</em>";
         } 
         // Personal
         if((time >= 0600 && time < 0630) || (time >= 1500 && time < 1600) || (time >= 2200 && time < 2230)) {
@@ -39,6 +42,7 @@
         if(time >= 2300) { // if it's 11PM or later, i'm asleep
             document.body.className = "sleep";
             document.getElementById('zone').innerHTML = "zZzzZzZz" ;
+            document.getElementById('quote').innerHTML = "quote about sleeping.. zZzzZzZz" ;
         }
         // Solitude
         if((time >= 0630 && time < 0700) || (time >= 2230 && time < 2300)) {

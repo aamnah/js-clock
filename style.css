@@ -1,8 +1,15 @@
 body {
   margin: 0 auto;
   padding: 5% 20%;
+  text-shadow: 2px 2px 1 black;
 }
-
+body a {
+  color: #000;
+  text-decoration: none;
+}
+body a:hover {
+  text-decoration: underline;
+}
 
 #time {
   font-size: 3em;
@@ -10,6 +17,15 @@ body {
   text-align: center;
 }
 
+#zone {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+#quote {
+  text-align: center;
+  padding: 15px;
+}
 
 .entertainment {
   background-color: #f092b0;

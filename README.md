@@ -14,7 +14,7 @@ Changelog
 
 ### v0.4
 - added zone quotes
-- refined CSS
+- refined SCSS
 
 ### v0.5
 - added variable keys for all the if statements to check zones
