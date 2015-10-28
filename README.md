@@ -2,6 +2,8 @@ Zone Clock
 ---
 A clock that changes color to indicate what i should be doing. Based on color-coded pre-determined time zones.
 
+![Screenshot](https://github.com/aamnah/js-clock/blob/master/screenshots/learn.png)
+
 I have this system where i have divided my time based on how much time i have and how i should be spending it.
 
 This division of time gave birth to the zones. A zone is basically allocated time for one of my time spending priorites. The more time a 'zone' has allocated, the more important it is.
