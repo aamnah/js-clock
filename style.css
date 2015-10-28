@@ -1,0 +1,44 @@
+body {
+  margin: 0 auto;
+  padding: 5% 20%;
+}
+
+
+#time {
+  font-size: 3em;
+  font-weight: bold;
+  text-align: center;
+}
+
+
+.entertainment {
+  background-color: #f092b0;
+  color: rgba(44, 62, 80, 0.7);
+}
+
+.family {
+  background-color: #7d669e;
+}
+
+.learn {
+  background-color: #CF000F;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.personal {
+  background-color: #39add1;
+}
+
+.sleep {
+  background-color: #22313F;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.solitude {
+  background-color: #b7c0c7;
+  color: white;
+}
+
+.work {
+  background-color: #51b46d;
+}
