@@ -74,6 +74,9 @@ Self explanatory. The total time alloted to Work in a day is 4 hours. This was i
 Changelog
 ---
 
+### v0.2
+- updated docs, basic HTML template
+
 ### v0.1
 - basic code taken from a js fiddle demo
 
