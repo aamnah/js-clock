@@ -1,12 +1,14 @@
-Zone Clock
----
+# Zone Clock
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ff4b8235-f06e-40e8-b76e-cba2854a689a/deploy-status)](https://app.netlify.com/sites/zoneblocks/deploys)
+
 A clock that changes color to indicate what i should be doing. Based on color-coded pre-determined time zones.
 
 ![Screenshot](https://github.com/aamnah/js-clock/blob/master/screenshots/learn.png)
 
 I have this system where i have divided my time based on how much time i have and how i should be spending it.
 
-This division of time gave birth to the zones. A zone is basically allocated time for one of my time spending priorites. The more time a 'zone' has allocated, the more important it is.
+This division of time gave birth to the zones. A zone is basically allocated time for one of my time spending priorities. The more time a 'zone' has allocated, the more important it is.
 
 But i forget what 'zone' it is and how i should be spending time right now. So i color coded the zone, which makes it easier to know the zone at one glance. The problem was, the color coding of the zone was done on my calendar, and not my clock. It should be done on my clock, because that's how you determine time, by looking at your clock, not at your calendar. Hence, this project. (I also did it as an exercise in coding. Scratch your own itch, right?)
 
@@ -14,7 +16,7 @@ Ideally, this would be on my smart watch or phone where i can just glance at my 
 
 ### A bit about the zones..
 
-The division of time was very methodical. I calculate the amount of time i have every day after taking away the time i'm asleep. Since 8 hours of sleep is reocmmended for a young adult like me, i'm left with 16 hours of time every day. Now, there are six ways i could be spending time, which are as follows:
+The division of time was very methodical. I calculate the amount of time i have every day after taking away the time i'm asleep. Since 8 hours of sleep is recommended for a young adult like me, i'm left with 16 hours of time every day. Now, there are six ways i could be spending time, which are as follows:
 
 - **E**ntertainment (2.5 hrs)
 - **F**riends and Family (6 hrs)
@@ -25,14 +27,14 @@ The division of time was very methodical. I calculate the amount of time i have 
 
 The time allocation and color codes are as follows:
 
-| Zone                       | Alloted Time | Color  |
-|---------------------------------|---------|--------|
-| Entertainment                   | 2.5 hrs | Pink   |
-| Friends and Family              | 6 hrs   | Purple |
-| Learning & Long time investment | 1.5 hrs | Red    |
-| Personal                        | 2 hrs   | Blue   |
-| Solitude                        | 1 hr    | Yellow |
-| Work                            | 4 hrs   | Green  |
+| Zone                       | Alloted Time | Color  | Color Code | 
+|---------------------------------|---------|--------|------------|
+| Entertainment                   | 2.5 hrs | Pink   | #f092b0    |
+| Friends and Family              | 6 hrs   | Purple | #7d669e    |
+| Learning & Long time investment | 1.5 hrs | Red    | #CF000F    |
+| Personal                        | 2 hrs   | Blue   | #39add1    |
+| Solitude                        | 1 hr    | Yellow | #b7c0c7    |
+| Work                            | 4 hrs   | Green  | #51b46d    |
 
 You can clearly see that my first priority is my family, second is my work, and third is entertainment.
 
